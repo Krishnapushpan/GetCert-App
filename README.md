@@ -1,5 +1,6 @@
 # GetCert-App
 GetCert app  is a React.js-enabled certificate issuance platform designed to securely issue, view, and verify certificates.
+Issue certificates instantly with pre-designed templates, ensuring consistency and professionalism.Add recipient details, course information, date of issue, and other specific data seamlessly.The GetCert App is a powerful tool for modern organizations looking to digitize and simplify the certificate management process 
 # Prerequisites
 Node.js
 
